@@ -1,6 +1,6 @@
 Hangman is a simple game for guessing words. 
 You can choose from 3 categories: "Countries, Food, Buildings".
-In files folder there is words.py file in which is stored guessing words. 
+In files folder there is words.py file in which are stored guessing words. 
 If you want simply add words to its matching category.
 
 Libraries needed to download to work with code: playsound == 1.2.2. 
