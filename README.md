@@ -5,11 +5,13 @@ If you want simply add words to its matching category.
 
 Libraries needed to download to work with code: playsound == 1.2.2. 
 
+
 How to run Hangman game.
 
 1. Download files.
 2. Open Hangman.exe.
-3. Enjoy!
+3. To launch game through code, open main.py file and run it. 
+4. Enjoy!
 
 Author contacts:
 alfred.jankovski@gmail.com
