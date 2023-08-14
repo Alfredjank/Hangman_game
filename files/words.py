@@ -1,6 +1,6 @@
 
 
-countries = {1: ['Italy', 'France', 'Spain', 'Indonesia', 'Greece', 'Austria', 'Sweden', 'mama'],
+countries = {1: ['Italy', 'France', 'Spain', 'Indonesia', 'Greece', 'Austria', 'Sweden'],
              2: ['Estonia', 'Latvia', 'Germany', 'Portugal', 'Turkey', 'Finland', 'Norway'],
              3: ['Lithuania', 'Belgium', 'Argentina', 'Mexico', 'Australia', 'Mongolia', 'Uruguay'],
              4: ['Venezuela', 'Bangladesh', 'Bhutan', 'Neapal', 'Cameroon', 'Senegal', 'Madagaskar'],
