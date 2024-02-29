@@ -158,7 +158,7 @@ class GameFrame(ttk.Frame):
         def setting_word():
             dict = container.category
             length = len(dict[self.round_value])
-            rand_number = random.randrange(1, length+1)
+            rand_number = random.randrange(0, length)
             self.word = dict[self.round_value][rand_number].upper()
             self.guessed_word = []
             for letter in range(len(self.word)):
